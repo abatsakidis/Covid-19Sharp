@@ -11,7 +11,7 @@ Covid-19Sharp is a C# API wrapper for the Coronavirus tracking API<br>
 
 ## Screenshot
 
-![Alt text](/Screenshots/screen.jpg?raw=true "CovidSharp")
+![Alt text](/Screenshot/screen.jpg?raw=true "CovidSharp")
 
 ## Tested on ##
 
