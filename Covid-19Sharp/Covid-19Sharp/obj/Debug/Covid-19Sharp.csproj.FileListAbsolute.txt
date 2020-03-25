@@ -14,5 +14,4 @@ C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\obj\Debug\Covid-19Sharp
 C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\obj\Debug\Covid-19Sharp.csproj.CopyComplete
 C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\obj\Debug\Covid-19Sharp.exe
 C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\obj\Debug\Covid-19Sharp.pdb
-C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\bin\Debug\countries.txt
 C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\obj\Debug\Covid_19Sharp.Main.resources
