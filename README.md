@@ -1,6 +1,6 @@
 ## Description ##
 
-Covid-19Sharp is a C# API wrapper for the Coronavirus tracking API<br>
+Covid-19Sharp is a software for the Coronavirus tracking API<br>
 <br>
 
 ## How To ##
