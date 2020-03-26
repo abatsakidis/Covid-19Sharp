@@ -4,7 +4,6 @@ C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\bin\Debug\Covid-19Sharp
 C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\bin\Debug\CovidSharp.dll
 C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\bin\Debug\RestSharp.dll
 C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\bin\Debug\Newtonsoft.Json.dll
-C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\bin\Debug\CovidSharp.pdb
 C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\bin\Debug\RestSharp.xml
 C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\bin\Debug\Newtonsoft.Json.xml
 C:\Users\mantis\source\repos\Covid-19Sharp\Covid-19Sharp\obj\Debug\Covid-19Sharp.csprojAssemblyReference.cache
